@@ -1,0 +1,12 @@
+img{
+    background-color:rgb(255, 230, 0) ;
+    border-radius: 20vh;
+} 
+
+input{
+    background-color: rgb(252, 237, 29);
+} 
+
+form{
+    align-self: center;
+}
